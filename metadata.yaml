@@ -1,0 +1,43 @@
+_repo: Eneida-v1-de-2_61508
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Caro, Miguel Antonio
+    aliases:
+    - Caro, Michaelis Antonii
+    - Caro, Michael Antonius
+    - Tobar, Miguel Antonio Caro
+    birthdate: 1843
+    deathdate: 1909
+    gutenberg_agent_id: '51468'
+    url: http://www.gutenberg.org/2009/agents/51468
+    wikipedia:
+    - https://es.wikipedia.org/wiki/Miguel_Antonio_Caro
+    - https://en.wikipedia.org/wiki/Miguel_Antonio_Caro
+creator:
+  author:
+    agent_name: Virgil
+    aliases:
+    - Vergilius Maro, Publius
+    - Vergil
+    birthdate: -70
+    deathdate: -19
+    gutenberg_agent_id: '129'
+    url: http://www.gutenberg.org/2009/agents/129
+    wikipedia: https://en.wikipedia.org/wiki/Virgil
+description: ''
+gutenberg_issued: '2020-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61508'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, Latin -- Translations into Spanish'
+- !lcsh 'Aeneas (Legendary character) -- Poetry'
+- !lcc 'PA'
+- GITenberg
+title: Eneida; v.1 de 2
+url: http://www.gutenberg.org/ebooks/61508
